@@ -1,9 +1,3 @@
-const userName = String("Tushar");
+const name = String("Tushar");
 
 const age = Number(23);
-
-const myFunction = function (userName, age) {
-  return `hi ${userName} and ${age}`;
-};
-
-console.log(myFunction(userName, age));
