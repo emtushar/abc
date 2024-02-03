@@ -8,3 +8,5 @@ const anotherObj = {
 const newModuleFunc = function () {
   return `new module`;
 };
+
+const name = "eduji";
